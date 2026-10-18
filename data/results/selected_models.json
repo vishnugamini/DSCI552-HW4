@@ -1,0 +1,13 @@
+{
+  "rfe_l": 3,
+  "rfe_p": 3,
+  "rfe_cv": 0.9857142857142858,
+  "complete_separation": false,
+  "l1_l": 19,
+  "l1_C": 1.0,
+  "l1_cv": 0.9857142857142858,
+  "l1_nonzero": 9,
+  "multi_l": 1,
+  "multi_C": 1.0,
+  "fit_convergence_warnings": 0
+}

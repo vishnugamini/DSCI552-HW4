@@ -1,0 +1,22 @@
+method,class,auc
+L1 multinomial,bending1,1.0
+L1 multinomial,bending2,1.0
+L1 multinomial,cycling,1.0
+L1 multinomial,lying,1.0
+L1 multinomial,sitting,0.9791666666666666
+L1 multinomial,standing,0.9791666666666666
+L1 multinomial,walking,1.0
+Gaussian NB,bending1,1.0
+Gaussian NB,bending2,1.0
+Gaussian NB,cycling,1.0
+Gaussian NB,lying,1.0
+Gaussian NB,sitting,1.0
+Gaussian NB,standing,1.0
+Gaussian NB,walking,1.0
+Multinomial NB,bending1,1.0
+Multinomial NB,bending2,0.9411764705882353
+Multinomial NB,cycling,1.0
+Multinomial NB,lying,1.0
+Multinomial NB,sitting,0.9583333333333334
+Multinomial NB,standing,0.8958333333333334
+Multinomial NB,walking,1.0
